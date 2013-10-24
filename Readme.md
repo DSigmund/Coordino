@@ -1,15 +1,7 @@
 This is a Fork
 ==================================
-My Goals for this Fork:
 
-* Add Language German
-* Remove Some Link Bugs regarding the baseURL
-* Make Captcha optional (admin)
-* Make Default Language Changeable
-* Use i18n for all Messages
-* Create a REST interface, allowing an App to connect
-* Cleaning up CSS
-
+I will use NEXT
 
 
 Requirements
